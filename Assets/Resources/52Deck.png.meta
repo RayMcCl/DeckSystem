@@ -1,0 +1,994 @@
+fileFormatVersion: 2
+guid: e71354f45f4b55a45aa9a264378c2d9f
+timeCreated: 1463273188
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AceOfClubs
+    21300002: KingOfClubs
+    21300004: QueenOfClubs
+    21300006: JackOfClubs
+    21300008: 10OfClubs
+    21300010: 9OfClubs
+    21300012: 8OfClubs
+    21300014: 7OfClubs
+    21300016: 6OfClubs
+    21300018: 5OfClubs
+    21300020: 4OfClubs
+    21300022: 3OfClubs
+    21300024: 2OfClubs
+    21300026: AceOfSpades
+    21300028: KingOfSpades
+    21300030: QueenOfSpades
+    21300032: JackOfSpades
+    21300034: 10OfSpades
+    21300036: 9OfSpades
+    21300038: 8OfSpades
+    21300040: 7OfSpades
+    21300042: 6OfSpades
+    21300044: 5OfSpades
+    21300046: 4OfSpades
+    21300048: 3OfSpades
+    21300050: 2OfSpades
+    21300052: AceOfDiamonds
+    21300054: KingOfDiamonds
+    21300056: QueenOfDiamonds
+    21300058: JackOfDiamonds
+    21300060: 10OfDiamonds
+    21300062: 9OfDiamonds
+    21300064: 8OfDiamonds
+    21300066: 7OfDiamonds
+    21300068: 6OfDiamonds
+    21300070: 5OfDiamonds
+    21300072: 4OfDiamonds
+    21300074: 3OfDiamonds
+    21300076: 2OfDiamonds
+    21300078: AceOfHearts
+    21300080: KingOfHearts
+    21300082: QueenOfHearts
+    21300084: JackOfHearts
+    21300086: 10OfHearts
+    21300088: 9OfHearts
+    21300090: 8OfHearts
+    21300092: 7OfHearts
+    21300094: 6OfHearts
+    21300096: 5OfHearts
+    21300098: 4OfHearts
+    21300100: 3OfHearts
+    21300102: 2OfHearts
+    21300104: Back
+    21300106: Joker1
+    21300108: Joker2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 385, z: 680, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AceOfClubs
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: KingOfClubs
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 385
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: QueenOfClubs
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 385
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: JackOfClubs
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 385
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 10OfClubs
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 385
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 9OfClubs
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 385
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 8OfClubs
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 385
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 7OfClubs
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 385
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 6OfClubs
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 385
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 5OfClubs
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 385
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 4OfClubs
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 385
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 3OfClubs
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 2OfClubs
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 289
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: AceOfSpades
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 289
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: KingOfSpades
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 289
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: QueenOfSpades
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 290
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -46.5}
+        - {x: -32.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: JackOfSpades
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 289
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 10OfSpades
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 289
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 9OfSpades
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 289
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 8OfSpades
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 289
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 7OfSpades
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 289
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 6OfSpades
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 289
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 5OfSpades
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 4OfSpades
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 193
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 3OfSpades
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 193
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 2OfSpades
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 193
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: AceOfDiamonds
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 193
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: KingOfDiamonds
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 193
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: QueenOfDiamonds
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 193
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: JackOfDiamonds
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 193
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 10OfDiamonds
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 193
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 9OfDiamonds
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 193
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 8OfDiamonds
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 193
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 7OfDiamonds
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 6OfDiamonds
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 97
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 5OfDiamonds
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 97
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 4OfDiamonds
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 97
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 3OfDiamonds
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 97
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 2OfDiamonds
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 97
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: AceOfHearts
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 97
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: KingOfHearts
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 97
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: QueenOfHearts
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 97
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: JackOfHearts
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 97
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 10OfHearts
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 97
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 9OfHearts
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 8OfHearts
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 7OfHearts
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 6OfHearts
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 5OfHearts
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 4OfHearts
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 3OfHearts
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: 2OfHearts
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: Back
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 47.5}
+        - {x: -33.5, y: 45.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 31.5, y: -47.5}
+        - {x: 33.5, y: -45.5}
+        - {x: 33.5, y: 47.5}
+    - name: Joker1
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    - name: Joker2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 47.5}
+        - {x: -33.5, y: -47.5}
+        - {x: 33.5, y: -47.5}
+        - {x: 33.5, y: 45.5}
+        - {x: 32.5, y: 47.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

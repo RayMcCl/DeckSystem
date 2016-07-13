@@ -1,0 +1,56 @@
+Changelog for Card Game
+
+5/14
+Decided on breaking code down into a simple structure : 
+DeckManager - Loaded Deck's Sprite information, Singleton Pattern
+Deck - A set of cards
+	cards - Array of cards
+Hand - A set of cards
+	cards - Array of cards, linked list?
+	handMax - Maximum Hand Size
+	
+Card - A single card
+	cardType - The Suit of the Card : Spades, Clubs, Diamonds, or Hearts
+	cardName - The name of the Card : Ace, King, Queen, Jack, 10, etc
+	sprite - The loaded card image based on the naming convention : cardName + "Of" + cardType, AceOfSpades
+
+Created FollowMouse script for card
+
+5/15
+--Changed DeckManager from Singleton design pattern, considering multiple players with different deck types (non-standard 52 card decks)
+Decided to add Player class for multiplayer support
+Player - An individual player
+	Hand - Current hand
+	Deck - Current deck
+
+Changed DeckManager back to Singleton design pattern, allowed for multiple decks through multidimensional array. When a player 
+loads in their deck	name is sent to the DeckManager which then pulls the sprite sheet information from the Resources folder
+Updated Card class with new variables
+	deckIndex : int - Index of the Deck this card is from
+	backName : string - Path name of back of card
+	faceUp : bool - Is the card currently face up or face down
+
+Added Flip animation for cards and updated card prefab
+Added Flip functionality to Card script under FlipCard() method, called halfway through the Flip animation
+
+Flushed out Deck functionality, included error handling
+Considering using JSON.net library to handle importing deck from simple text documents, other considerations include 
+storing data on SQL server
+
+Decided to store data using CSV file format to allow for quick prototyping, created 52Card.csv with basic format
+Created Parser static class for global text parsing and updated Deck class to include LoadDeck functionality
+
+Implemented Deck drawing functionality
+Updated DeckManager class name and variable names to SpriteManager, updated related variables and method calls to reflect this change
+
+5/16
+
+Updated CSV file to have header, updated Parser file to skip first line (header line)
+Updated CSV file to include type, card value, and sortWeighting. Updated Deck LoadDeck function and Card class to reflect this.
+Overloaded > and < operators for Card class for Sort method
+Created Sort static class with Sort method that uses a BubbleSort to return sorted List
+Implemented Hand SortHand using sortWeight as Sort basis
+
+Changed FollowMouse class to CardMotion class and added MoveToTarget functionality
+
+Implemented ShuffleDeck functionality
